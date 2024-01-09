@@ -1,3 +1,6 @@
-# Your blog
+# patient112.io
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+##  Dumping Grounds
+If you were looking for newbie level code and related content, then look no further.  From Hello World to Dog/Cat classifiers, anything could be found here.
+###  What's Next
+We shall see.
