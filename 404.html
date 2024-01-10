@@ -1,24 +1,47 @@
----
-permalink: /404.html
-layout: default
----
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+    <title>Page Not Found</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0a0a0a;
+            color: #fff;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 50px;
+        }
+        .container {
+            position: relative;
+            max-width: 700px;
+            margin: auto;
+            padding: 20px;
+        }
+        .error-message {
+            margin: 20px;
+            font-size: 20px;
+        }
+        a {
+            color: #38a9ff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .mysterious-img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>404</h1>
+        <p class="error-message">Oops! The shadows have concealed this page.</p>
+        <img src="images/404_dark_theme.jpg" alt="Dall-E generated 404 error page with dark mysterious clouds soroundin a floating 404." class="mysterious-img">
+        <p>It looks like the page you are looking for has vanished into the mist.</p>
+        <p><a href="/index.md">Return to the Home Page</a></p>
+    </div>
+</body>
+</html>
