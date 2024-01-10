@@ -1,7 +1,7 @@
 # patient112.io
   A simple site to journal my progress of learning coding skills, deep learning methods, app deployments and much more.  
 
-  ## Practice as you go.
+## Practice as you go.
   As a career nurse, I have always been a consumer of software products and technologies and never a creator of these tools.  I will leverage my 15+ years of knowledge about healthcare related softwares, my HIPPA and HITECH training, and my understanding of patient experiences in order to build better technologies which guide people through their healthcare journeys. 
 
 ### Some areas of interest include:
