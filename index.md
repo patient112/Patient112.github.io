@@ -20,6 +20,5 @@
 
 [#github-profile]: https://github.com/patient112
         
-[About Me][#about-me]
 
-[#about-me]: /about.md
+
